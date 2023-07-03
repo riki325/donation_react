@@ -1,0 +1,9 @@
+.p-inputgroup{
+    width: 30% !important;
+    position: relative;
+    display: inline-flex !important;
+    
+}
+.inputs{
+    direction: rtl;
+}
